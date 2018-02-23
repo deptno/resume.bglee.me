@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "이봉균",
+    "label": "엔지니어",
+    "picture": "",
+    "email": "deptno@gmail.com",
+    "phone": "(010) 3508-5945",
+    "website": "https://bglee.me",
+    "summary": "프론트엔드 베이스 TypeScript(JavaScript) 엔지니어. :hearts: IaC, FaaS(Serverless), DevOps",
+    "location": {
+      "address": "성북구 장위동",
+      "postalCode": "02775",
+      "city": "서울",
+      "countryCode": "KR",
+      "region": "대한민국"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "deptno",
+        "url": "https://github.com/deptno"
+      },
+      {
+        "network": "Medium",
+        "username": "deptno",
+        "url": "https://medium.com/@deptno"
+      },
+      {
+        "network": "Personal Blog",
+        "username": "이봉",
+        "url": "https://blog.bglee.me"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "부동산 다이렉트",
+      "position": "팀장",
+      "website": "https://www.rsquare.co.kr",
+      "startDate": "2016-04-04",
+      "endDate": "2018-03-07",
+      "summary": "aws를 활용하여 고객사이트, 기타 백오피스 관련 백, 프론트엔드 구현",
+      "highlights": [
+        "https://www.rsquare.co.kr"
+      ]
+    },
+    {
+      "company": "휴맥스",
+      "position": "Software Engineer",
+      "website": "https://humaxdigital.com",
+      "startDate": "2011-06-13",
+      "endDate": "2015-07-10",
+      "summary": "세탑박스에 임베드된 OIPF 구현 브라우저위 SPA를 구현",
+      "highlights": [
+        "UK: Freetime",
+        "HMS",
+        "Netflix",
+        "BBC",
+        "iPlayer"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "삼육대학교",
+      "area": "컴퓨터 과학과",
+      "startDate": "2004-03-02",
+      "endDate": "2010-02-14",
+      "gpa": "3.82"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1회 공개SW공모대전 안드로이드 부문 기업상(SK C&C)",
+      "date": "2009-11-01",
+      "awarder": "지식경제부",
+      "summary": "Cliqo(모바일 화이트보드+정보 교환프로그램), 팀: IDEarth"
+    }
+  ],
+  "skills": [
+    {
+      "name": "프론트엔드",
+      "level": "★★★★★",
+      "keywords": [
+        "Next.js",
+        "React",
+        "AngularJS - deprecated"
+      ]
+    },
+    {
+      "name": "백엔드",
+      "level": "★★★★",
+      "keywords": [
+        "Node",
+        "Serverless",
+        "Express",
+        "Koa"
+      ]
+    },
+    {
+      "name": "데브옵스",
+      "level": "★★★★",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "HCL - terraform",
+        "TravisCI",
+        "CircleCI"
+      ]
+    },
+    {
+      "name": "주력 언어",
+      "level": "★★★★★",
+      "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Markdown"
+      ]
+    },
+    {
+      "name": "기타",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "HCL",
+        "Python",
+        "Clojure",
+        "Go",
+        "C",
+        "Shell Script"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "★★★★★"
+    }
+  ],
+  "interests": [
+    {
+      "name": "개발",
+      "keywords": [
+        "https://github.com/deptno"
+      ]
+    }
+  ]
+}

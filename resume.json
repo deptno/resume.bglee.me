@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "이봉균",
-    "label": "엔지니어",
-    "picture": "",
+    "label": "개발자",
+    "picture": "https://avatars1.githubusercontent.com/u/1223020?s=460&v=4",
     "email": "deptno@gmail.com",
     "phone": "(010) 3508-5945",
     "website": "https://bglee.me",
-    "summary": "프론트엔드 베이스 TypeScript(JavaScript) 엔지니어. :hearts: IaC, FaaS(Serverless), DevOps",
+    "summary": "육군 병장 출신, 임베디드, 로우엔드 디바이스(MIPS CPU) 위에서 SPA를 꽃 피웠던 프론트엔드 베이스 TypeScript(JavaScript) 엔지니어. ENTP, :hearts: IaC, FaaS(Serverless), DevOps",
     "location": {
       "address": "성북구 장위동",
       "postalCode": "02775",
@@ -19,6 +19,11 @@
         "network": "Github",
         "username": "deptno",
         "url": "https://github.com/deptno"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Bonggyun Lee",
+        "url": "https://www.linkedin.com/in/bonggyun-lee-b55359b3"
       },
       {
         "network": "Medium",
@@ -39,24 +44,42 @@
       "website": "https://www.rsquare.co.kr",
       "startDate": "2016-04-04",
       "endDate": "2018-03-07",
-      "summary": "aws를 활용하여 고객사이트, 기타 백오피스 관련 백, 프론트엔드 구현",
+      "summary": "AWS를 활용하여 고객사이트, 기타 백오피스 관련 백, 프론트엔드 구현",
       "highlights": [
-        "https://www.rsquare.co.kr"
+        "2018.03 퇴사",
+        "2017.11 계약 관리 시스템, 세금 계약서 파트 UI 구현 [TypeScript, React]",
+        "2017.09 매물 비교 기안서 v2 - 새로운 요구사항 처리와 함께 TypeScript 리팩토링 [TypeScript, Node, Serverless]",
+        "2017.06 고객사이트 모바일 [TypeScript, Node, Next.js, Adobe XD, Static HTML] (https://m.rsquare.co.kr)",
+        "2017.05 [PET] 텍스트(UI 텍스트, ID 관리) [TypeScript, Node, Micro]",
+        "2017.05 [PET] 구글 SSO [TypeScript, Node, Micro]",
+        "2017.01 고객사이트 PM, 프론트엔트 [TypeScript, React, Next.js, Amazon Cognito, SSR, SEO, GA, NA, FB] (https://www.rsquare.co.kr)",
+        "2017.01 개발1팀 팀장",
+        "2016.11 사내 업무 시스템(Works) v2 구현 [Angular > React]",
+        "2016.10 클라이언트 팀장",
+        "2016.09 기안서 DB 구현 [Node, DynamoDB]",
+        "2016.09 매물 비교 기안서(excel) 생성 시스템 [Node, Serverless]",
+        "2016.08 기안서(PDF) 생성 시스템 [Node, PhantomJS, Docker]",
+        "2016.04 CI(TravisCI) 도입",
+        "2016.04 기안서 생성 현황판 및 매물 비교 기안서 생성 UI [React, Redux]",
+        "2016.04 IDE(웹스톰) 도입",
+        "2016.04 입사"
       ]
     },
     {
       "company": "휴맥스",
-      "position": "Software Engineer",
+      "position": "대리(Software Engineer)",
       "website": "https://humaxdigital.com",
       "startDate": "2011-06-13",
       "endDate": "2015-07-10",
       "summary": "세탑박스에 임베드된 OIPF 구현 브라우저위 SPA를 구현",
       "highlights": [
-        "UK: Freetime",
-        "HMS",
-        "Netflix",
-        "BBC",
-        "iPlayer"
+        "2015.06 퇴사",
+        "SPA 내에서 서드파티 앱 지원 (Netflix, BBC Player, iPlayer",
+        "2012.02-2015 미디어, 세팅 파트, UK: freetime HDR-1000S [JavaScript -> TypeScript] (http://www.humaxdigital.com/uk/products/product.php?gid=135)",
+        "2013-2015 미디어 파트, GER: iCord Evolution [JavaScript] (http://www.humaxdigital.com/it/products/product.php?gid=481)",
+        "2014-2015 클라이언트 리드, UK: freeview HDR-4000T [TypeScript] (http://www.humaxdigital.com/uk/products/product.php?gid=613)",
+        "2011.06 입사",
+        "Embedded, C, TypeScript, Linux"
       ]
     }
   ],
@@ -75,6 +98,12 @@
       "date": "2009-11-01",
       "awarder": "지식경제부",
       "summary": "Cliqo(모바일 화이트보드+정보 교환프로그램), 팀: IDEarth"
+    },
+    {
+      "title": "교내 창업경진대회 대상",
+      "date": "2007-09-01",
+      "awarder": "삼육대학교",
+      "summary": "팀: IDEarth"
     }
   ],
   "skills": [
@@ -104,6 +133,7 @@
         "AWS",
         "Docker",
         "HCL - terraform",
+        "Docker",
         "TravisCI",
         "CircleCI"
       ]
@@ -129,17 +159,26 @@
         "Clojure",
         "Go",
         "C",
-        "Shell Script"
+        "Shell Script",
+        "WebStorm",
+        "ViM"
       ]
     }
   ],
   "languages": [
     {
       "language": "Korean",
-      "fluency": "★★★★★"
+      "fluency": "네이티브"
     }
   ],
   "interests": [
+    {
+      "name": "블로그",
+      "keywords": [
+        "https://blog.bglee.me",
+        "https://medium.com/@deptno"
+      ]
+    },
     {
       "name": "개발",
       "keywords": [

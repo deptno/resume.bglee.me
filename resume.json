@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "이봉균",
+    "name": "이봉(균)",
     "label": "개발자",
     "picture": "https://avatars1.githubusercontent.com/u/1223020?s=460&v=4",
     "email": "deptno@gmail.com",
     "phone": "(010) 3508-5945",
     "website": "https://bglee.me",
-    "summary": "육군 병장 출신, 임베디드, 로우엔드 디바이스(MIPS CPU) 위에서 SPA를 꽃 피웠던 프론트엔드 베이스 TypeScript(JavaScript) 엔지니어. ENTP, :hearts: IaC, FaaS(Serverless), DevOps",
+    "summary": "임베디드, 로우엔드 디바이스(MIPS CPU) 위에서 SPA를 꽃 피웠던 프론트엔드 베이스 TypeScript(JavaScript) 엔지니어. ENTP, :hearts: IaC, FaaS(Serverless), DevOps",
     "location": {
       "address": "성북구 장위동",
       "postalCode": "02775",
@@ -74,19 +74,42 @@
       "summary": "세탑박스에 임베드된 OIPF 구현 브라우저위 SPA를 구현",
       "highlights": [
         "2015.06 퇴사",
-        "SPA 내에서 서드파티 앱 지원 (Netflix, BBC Player, iPlayer",
+        "SPA 내에서 서드파티 앱 지원 (Netflix, BBC Player, iPlayer)",
         "2012.02-2015 미디어, 세팅 파트, UK: freetime HDR-1000S [JavaScript -> TypeScript] (http://www.humaxdigital.com/uk/products/product.php?gid=135)",
         "2013-2015 미디어 파트, GER: iCord Evolution [JavaScript] (http://www.humaxdigital.com/it/products/product.php?gid=481)",
         "2014-2015 클라이언트 리드, UK: freeview HDR-4000T [TypeScript] (http://www.humaxdigital.com/uk/products/product.php?gid=613)",
         "2011.06 입사",
+        "2011.02 휴맥스 지원하 비트컴퓨터, 임베디드 과정 학습",
         "Embedded, C, TypeScript, Linux"
       ]
+    },
+    {
+      "company": "다우기술",
+      "position": "인턴",
+      "startDate": "2010-07-01",
+      "endDate": "2007-08-31",
+      "summary": "SI로 알고 갔으나 SM 으로 발령나서 키움증권에서 2달간 지냄 [Pro-C]"
+    },
+    {
+      "company": "육군",
+      "position": "통신병",
+      "startDate": "2005-09-13",
+      "endDate": "2007-09-12",
+      "summary": "..., 연대에 하나뿐인 인트라넷 계원 겸업이라 인터넷 선 하나에 RJ45짹을 두개 물리는 것도 가능, OSI 1계층 구현 가능..."
     }
   ],
   "education": [
     {
+      "institution": "IT Will",
+      "studyType": "취득",
+      "area": "OCP10g",
+      "startDate": "2009-01-02",
+      "endDate": "2009-02-28"
+    },
+    {
       "institution": "삼육대학교",
       "area": "컴퓨터 과학과",
+      "studyType": "학사",
       "startDate": "2004-03-02",
       "endDate": "2010-02-14",
       "gpa": "3.82"

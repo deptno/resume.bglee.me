@@ -4,7 +4,9 @@
   "description": "resume",
   "main": "index.js",
   "scripts": {
-    "build": "resume export -f .html -t classy deptno.html",
+    "build": "mkdir -p out && resume export -f .html -t classy out/index.html",
+    "deploy": "aws s3 sync out s3://resume.bglee.me --delete",
+    "invalidation": "aws cloudfront create-invalidation --distribution-id E32D4Q7TDTPLXS --paths \"/*\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

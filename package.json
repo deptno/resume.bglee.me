@@ -4,7 +4,7 @@
   "description": "resume",
   "main": "index.js",
   "scripts": {
-    "build": "mkdir -p out && resume export -f .html -t classy out/index.html",
+    "build": "mkdir -p out && resume export -f .html -t classy out/index.html && node replacer",
     "deploy": "aws s3 sync out s3://resume.bglee.me --delete",
     "invalidation": "aws cloudfront create-invalidation --distribution-id E32D4Q7TDTPLXS --paths \"/*\"",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/deptno/resume#readme",
   "devDependencies": {
     "jsonresume-theme-classy": "^1.0.9",
+    "replace-in-file": "^3.1.1",
     "resume-cli": "^0.4.19"
   }
 }

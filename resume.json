@@ -39,6 +39,18 @@
   },
   "work": [
     {
+      "company": "필요한가?",
+      "position": "Solo Developer",
+      "website": "https://bglee.me",
+      "startDate": "2018-03-08",
+      "summary": "Do what I want",
+      "highlights": [
+        "2018.04 [PET] Dynamon, AWS DynamoDB의 GUI Client인 Dynamon 진행시작 [Electron + TS + React] (https://github.com/deptno/dynamon)",
+        "2018.03 주기적으로 글도 쓰고 (https://medium.com/@deptno)",
+        "2018.03 친구와 비공개 프로젝트 진행 중"
+      ]
+    },
+    {
       "company": "부동산 다이렉트",
       "position": "팀장",
       "website": "https://www.rsquare.co.kr",
@@ -47,10 +59,11 @@
       "summary": "AWS를 활용하여 고객사이트, 기타 백오피스 관련 백, 프론트엔드 구현",
       "highlights": [
         "2018.03 퇴사",
+        "2018.02 [PET] Clerk, 슬랙에서 지나간 링크가 기억이 나지 않아 흐르는 링크를 낚아 저장하는 저장소 구현 [TS, Serverless]",
         "2017.11 계약 관리 시스템, 세금 계약서 파트 UI 구현 [TypeScript, React]",
         "2017.09 매물 비교 기안서 v2 - 새로운 요구사항 처리와 함께 TypeScript 리팩토링 [TypeScript, Node, Serverless]",
         "2017.06 고객사이트 모바일 [TypeScript, Node, Next.js, Adobe XD, Static HTML] (https://m.rsquare.co.kr)",
-        "2017.05 [PET] 텍스트(UI 텍스트, ID 관리) [TypeScript, Node, Micro]",
+        "2017.05 [PET] Texts, (UI 텍스트, ID 관리) [TypeScript, Node, Micro]",
         "2017.05 [PET] 구글 SSO [TypeScript, Node, Micro]",
         "2017.01 고객사이트 PM, 프론트엔트 [TypeScript, React, Next.js, Amazon Cognito, SSR, SEO, GA, NA, FB] (https://www.rsquare.co.kr)",
         "2017.01 개발1팀 팀장",

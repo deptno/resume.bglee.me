@@ -39,11 +39,10 @@
   },
   "work": [
     {
-      "company": "필요한가?",
       "position": "Solo Developer",
       "website": "https://bglee.me",
       "startDate": "2018-03-08",
-      "summary": "Do what I want",
+      "summary": "Do what I want, 살고자 하는 삶을 살자.",
       "highlights": [
         "2018.04 [PET] Dynamon, AWS DynamoDB의 GUI Client인 Dynamon 진행시작 [Electron + TS + React] (https://github.com/deptno/dynamon)",
         "2018.03 주기적으로 글도 쓰고 (https://medium.com/@deptno)",

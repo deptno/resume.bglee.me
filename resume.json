@@ -45,6 +45,9 @@
       "startDate": "2018-03-08",
       "summary": "살고자 하는 삶을 살자.",
       "highlights": [
+        "2018.06 Github 연간 6000 커밋",
+        "2018.05 [PET] cwlog, 터미널에서 AWS CloudWatch 로그 다운로더 (https://github.com/deptno/cwlog)",
+        "2018.05 [PET] HoseJS, 터미널 JS + Ramda 데이터 파이프 라인 (https://github.com/deptno/hosejs)",
         "2018.04 [PET] Dynamon, AWS DynamoDB의 GUI Client인 Dynamon 진행시작 [Electron + TS + React] (https://github.com/deptno/dynamon)",
         "2018.03 주기적으로 글도 쓰고 (https://medium.com/@deptno)",
         "2018.03 친구와 비공개 프로젝트 진행 중"

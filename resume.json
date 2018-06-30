@@ -6,7 +6,7 @@
     "email": "deptno@gmail.com",
     "phone": "(010) 3508-5945",
     "website": "https://bglee.me",
-    "summary": "임베디드, 로우엔드 디바이스(MIPS CPU) 위에서 SPA를 꽃 피웠던 프론트엔드 베이스 TypeScript(JavaScript) 엔지니어. ENTP, :hearts: IaC, FaaS(Serverless), DevOps",
+    "summary": "임베디드, 로우엔드 디바이스(MIPS) 위에서 SPA를 🌸 피운 프론트엔드 엔지니어, ENTP, ❤️ IaC, FaaS(Serverless), DevOps and TypeScript(JavaScript)",
     "location": {
       "address": "성북구 장위동",
       "postalCode": "02775",
@@ -21,17 +21,18 @@
         "url": "https://github.com/deptno"
       },
       {
-        "network": "Linkedin",
+        "network": "LinkedIn",
         "username": "Bonggyun Lee",
         "url": "https://www.linkedin.com/in/bonggyun-lee-b55359b3"
       },
       {
         "network": "Medium",
+        "category": "RSS",
         "username": "deptno",
         "url": "https://medium.com/@deptno"
       },
       {
-        "network": "Personal Blog",
+        "network": "Blog",
         "username": "이봉",
         "url": "https://blog.bglee.me"
       }
@@ -39,12 +40,13 @@
   },
   "work": [
     {
-      "company": "Do what I want",
+      "company": "봉퍼니",
       "position": "Solo Developer",
       "website": "https://bglee.me",
       "startDate": "2018-03-08",
-      "summary": "살고자 하는 삶을 살자.",
+      "summary": "아무거나 하는 삶.",
       "highlights": [
+        "2018.06 개인 프로젝트 시작",
         "2018.06 Github 연간 6000 커밋",
         "2018.05 [PET] cwlog, 터미널에서 AWS CloudWatch 로그 다운로더 (https://github.com/deptno/cwlog)",
         "2018.05 [PET] HoseJS, 터미널 JS + Ramda 데이터 파이프 라인 (https://github.com/deptno/hosejs)",

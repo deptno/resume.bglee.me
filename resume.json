@@ -38,8 +38,8 @@
       },
       {
         "network": "Instagram",
-        "username": "ibong2",
-        "url": "https://www.instagram.com/ibong2"
+        "username": "deptno",
+        "url": "https://www.instagram.com/deptno"
       }
     ]
   },
@@ -51,7 +51,7 @@
       "startDate": "2018-03-08",
       "summary": "아무거나 하는 삶.",
       "highlights": [
-        "2018.06 개인 프로젝트 시작",
+        "2018.06 [WIP] repaper.me",
         "2018.06 Github 연간 6000 커밋",
         "2018.05 [PET] cwlog, 터미널에서 AWS CloudWatch 로그 다운로더 (https://github.com/deptno/cwlog)",
         "2018.05 [PET] HoseJS, 터미널 JS + Ramda 데이터 파이프 라인 (https://github.com/deptno/hosejs)",

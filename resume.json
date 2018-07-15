@@ -29,13 +29,15 @@
         "network": "Medium",
         "category": "RSS",
         "username": "deptno",
-        "url": "https://medium.com/@deptno"
+        "url": "https://medium.com/@deptno",
+        "feed": "https://medium.com/feed/@deptno"
       },
       {
         "network": "Blog",
         "category": "RSS",
         "username": "이봉",
-        "url": "http://blog.bglee.me/atom.xml"
+        "url": "http://blog.bglee.me",
+        "feed": "http://blog.bglee.me/atom.xml"
       },
       {
         "network": "Instagram",

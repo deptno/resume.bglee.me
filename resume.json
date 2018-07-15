@@ -33,8 +33,9 @@
       },
       {
         "network": "Blog",
+        "category": "RSS",
         "username": "이봉",
-        "url": "https://blog.bglee.me"
+        "url": "http://blog.bglee.me/atom.xml"
       },
       {
         "network": "Instagram",

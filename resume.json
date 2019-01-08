@@ -6,7 +6,7 @@
     "email": "deptno@gmail.com",
     "phone": "(010) 3508-5945",
     "website": "https://bglee.me",
-    "summary": "임베디드, 로우엔드 디바이스(MIPS) 위에서 SPA를 🌸 피운 프론트엔드 엔지니어, ENTP, ❤️ IaC, FaaS(Serverless), DevOps and TypeScript(JavaScript)",
+    "summary": "✈️ 이력서 이사갔습니다.(PROFILE: Googit 링크 참조) 임베디드, 로우엔드 디바이스(MIPS) 위에서 SPA를 🌸 피운 프론트엔드 엔지니어, ENTP, ❤️ IaC, FaaS(Serverless), DevOps and TypeScript(JavaScript)",
     "location": {
       "address": "성북구 장위동",
       "postalCode": "02775",
@@ -15,6 +15,11 @@
       "region": "대한민국"
     },
     "profiles": [
+      {
+        "network": "Googit",
+        "username": "deptno",
+        "url": "https://googit.io/user/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/"
+      },
       {
         "network": "Github",
         "username": "deptno",
@@ -54,6 +59,7 @@
       "startDate": "2018-03-08",
       "summary": ":rage: end of serverless",
       "highlights": [
+        "2019.01 https://googit.io",
         "2018.12 [WIP] Googit, (리디시 + 리페이퍼미)",
         "2018.10 Dynalee",
         "2018.09 이탈리아 여행",
